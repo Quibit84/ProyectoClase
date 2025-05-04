@@ -1,7 +1,6 @@
 {
-  "name": "semana-1",
+  "name": "semana-2",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "start": "parcel public/index.html",
     "build": "parcel build ublic/index.html"
